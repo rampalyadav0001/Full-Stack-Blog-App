@@ -90,7 +90,7 @@ npm install
 3. Create a `.env` file inside the backend directory:
 
 ```plaintext
-PORT=5000
+PORT=8000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
@@ -119,7 +119,7 @@ cd frontend
 npm install
 ```
 
-3. (Optional) Configure Axios baseURL inside your services to match the backend URL (`http://localhost:5000`).
+3. (Optional) Configure Axios baseURL inside your services to match the backend URL (`http://localhost:8000`).
 
 4. Start the React development server:
 
