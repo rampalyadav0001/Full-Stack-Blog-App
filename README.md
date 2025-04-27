@@ -211,3 +211,7 @@ npm start
 - Admin control to suspend or promote users.
 
 ---
+# User
+
+- Name :Rampal Yadav
+- Email :rampalyadav23082001@gmail.com
